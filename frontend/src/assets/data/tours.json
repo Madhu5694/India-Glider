@@ -1,0 +1,289 @@
+[
+  {
+    "title": "Manali",
+    "city": "Manali",
+    "address": "Somewhere",
+    "distance": 300,
+    "price": 8000,
+    "maxGroupSize": 25,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Rishikesh",
+    "city": "Rishikesh",
+    "address": "Somewhere",
+    "distance": 400,
+    "price": 5000,
+    "maxGroupSize":12,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Jaipur",
+    "city": "Jaipur",
+    "address": "Somewhere",
+    "distance": 500,
+    "price": 5000,
+    "maxGroupSize": 15,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Goa",
+    "city": "Goa",
+    "address": "Somewhere ",
+    "distance": 500,
+    "price": 12000,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Kasol",
+    "city": "Kasol",
+    "address": "Somewhere",
+    "distance": 500,
+    "price": 6000,
+    "maxGroupSize": 12,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Spiti Valley",
+    "city": "Spiti Valley",
+    "address": "Somewhere",
+    "distance": 500,
+    "price": 8000,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Dalhousie",
+    "city": "Dalhousie",
+    "address": "Dalhousie",
+    "distance": 500,
+    "price": 4000,
+    "maxGroupSize": 10,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Shimla",
+    "city": "Shimla",
+    "address": "Somewhere ",
+    "distance": 500,
+    "price": 8000,
+    "maxGroupSize": 14,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": true
+  },
+  {
+    "title": "mussoorie",
+    "city": "mussoorie",
+    "address": "Somewhere",
+    "distance": 100,
+    "price": 5000,
+    "maxGroupSize": 10,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img10.jpg",
+    "featured": false
+  },
+  {
+    "title": "Haridwar",
+    "city": "Haridwar",
+    "address": "Somewhere",
+    "distance": 500,
+    "price": 4000,
+    "maxGroupSize":20,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  },
+
+  
+    {
+      "title": "Kashmir",
+      "city": "Kashmir",
+      "address": "Somewhere",
+      "distance": 600,
+      "price": 8000,
+      "maxGroupSize":10,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "/tour-images/tour-img09.jpg",
+      "featured": false
+    },
+    {
+      
+        "title": "Sikkim",
+        "city": "Sikkim",
+        "address": "Somewhere",
+        "distance": 1000,
+        "price": 10000,
+        "maxGroupSize":10,
+        "desc": "this is the description",
+        "reviews": [],
+    
+        "photo": "/tour-images/tour-img09.jpg",
+        "featured": false
+      
+    }
+ ,
+  {
+      
+    "title": "Bir",
+    "city": "Bir",
+    "address": "Somewhere",
+    "distance": 1000,
+    "price": 10000,
+    "maxGroupSize":10,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  
+},
+
+
+
+
+{
+      
+  "title": "Ladakh",
+  "city": "Ladakh",
+  "address": "Somewhere",
+  "distance": 1000,
+  "price": 10000,
+  "maxGroupSize":10,
+  "desc": "this is the description",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img09.jpg",
+  "featured": false
+
+}
+
+,
+
+{
+      
+  "title": "Dharamshala",
+  "city": "Dharamshala",
+  "address": "Somewhere",
+  "distance": 1000,
+  "price": 10000,
+  "maxGroupSize":10,
+  "desc": "this is the description",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img09.jpg",
+  "featured": false
+
+},
+
+{
+      
+  "title": "Shillong",
+  "city": "Shillong",
+  "address": "Somewhere",
+  "distance": 1000,
+  "price": 10000,
+  "maxGroupSize":10,
+  "desc": "this is the description",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img09.jpg",
+  "featured": false
+
+},
+{
+  "title": "Mumbai",
+  "city": "Mumbai",
+  "address": "maharashtra",
+  "distance": 1500,
+  "price": 20000,
+  "maxGroupSize":25,
+  "desc": "Mumbai, formerly known as Bombay, is the financial, commercial, and entertainment capital of India. Situated on the west coast of India, it is the most populous city in the country and one of the largest urban agglomerations in the world. Mumbai is a melting pot of cultures, where tradition and modernity coexist harmoniously, offering a vibrant and dynamic experience to its residents and visitors alike. Here's a detailed description of Mumbai",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img18.jpg",
+  "featured": false
+},
+{
+  "title": "Kerala",
+  "city": "Kerala",
+  "address": "Kerala",
+  "distance": 2500,
+  "price": 20000,
+  "maxGroupSize":25,
+  "desc": "Kerala, often referred to as God's Own Country, is a breathtakingly beautiful state located in the southwestern region of India. Renowned for its serene backwaters, lush greenery, pristine beaches, and vibrant culture, Kerala is a paradise for nature lovers, adventure enthusiasts, and cultural aficionados alike. Here's a detailed description of Kerala",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img19.jpg",
+  "featured": false
+},
+
+{
+  "title": "Andaman Nicobar",
+  "city": "Andaman Nicobar",
+  "address": "Andaman Nicobar",
+  "distance": 2500,
+  "price": 40000,
+  "maxGroupSize":25,
+  "desc": "The Andaman and Nicobar Islands are situated at the southeastern edge of the Bay of Bengal, closer to Myanmar and Thailand than to mainland India. The archipelago is divided into two groups of islands: the Andaman Islands to the north and the Nicobar Islands to the south. The islands are characterized by their stunning natural beauty, with white sandy beaches, coral reefs, mangrove forests, and rugged terrain.",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img20.jpg",
+  "featured": false
+},
+{
+  "title": "lakshadweep",
+  "city": "lakshadweep",
+  "address": "lakshadweep",
+  "distance": 3000,
+  "price": 50000,
+  "maxGroupSize":25,
+  "desc": "Lakshadweep, meaning a hundred thousand islands in Malayalam, is a group of stunning coral islands scattered in the Arabian Sea off the southwestern coast of India. Known for their pristine beaches, crystal-clear waters, vibrant coral reefs, and rich marine biodiversity, the Lakshadweep Islands are a tropical paradise and a haven for nature lovers, adventure seekers, and beach enthusiasts",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img21.jpg",
+  "featured": false
+}
+
+
+
+
+ 
+]
